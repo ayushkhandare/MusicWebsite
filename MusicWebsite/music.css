@@ -35,6 +35,12 @@ header .menu_side, .song_side {
     color: #fff;
 }
 
+header .menu_side h1:hover{
+    font-size: 22px;
+    cursor: pointer;
+    transition: 0.3s linear;
+}
+
 header .song_side {
     width: 75%;
     background: #041622;
